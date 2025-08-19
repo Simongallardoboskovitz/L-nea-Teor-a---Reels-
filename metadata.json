@@ -1,0 +1,5 @@
+{
+  "name": "Guionizador de Documentos",
+  "description": "Una aplicación para transformar documentos académicos en guiones de video atractivos utilizando IA. Sube un PDF o pega texto, elige un tono y genera un guion completo con indicaciones visuales. También incluye herramientas para sugerir títulos y descripciones para YouTube.",
+  "requestFramePermissions": []
+}
